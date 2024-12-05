@@ -32,3 +32,6 @@ cluster_regions = "epigenetics_utilities.cluster_regions:main"
 
 [tool.setuptools.packages.find]
 include = ["epigenetics_utilities"]
+
+homepage = "https://github.com/downinglab/epigenetics_utilities"
+repository = "https://github.com/downinglab/epigenetics_utilities"
